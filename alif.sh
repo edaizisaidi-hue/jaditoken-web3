@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "[STATUS: OMEGA AKTIF]"
-echo "Selamat Datang Tuan Arkitek."
+echo -e "\n[STATUS: OMEGA AKTIF — COMMAND CENTER]"
 python3 ~/omega_master.py "$@"
